@@ -1,0 +1,10 @@
+**/node_modules/
+**/package-lock.json
+**/.env
+**/obj
+**/bin
+**/.vs
+**/*.js
+**/*.js.map
+**/*.njsproj
+**/*.sln
